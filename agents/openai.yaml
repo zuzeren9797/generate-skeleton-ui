@@ -1,0 +1,4 @@
+interface:
+  display_name: "生成骨架图UI"
+  short_description: "按最大区域单层占位规则，从 Figma 页面生成骨架屏画板"
+  default_prompt: "使用 $generate-skeleton-ui，根据这个 Figma 页面生成骨架图 UI，并放到我指定的目标页面。"
